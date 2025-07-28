@@ -20,4 +20,4 @@ This repository showcases real examples from my work in accounting, inventory co
 ## 🌟 About Me
 I'm an accounting & operations specialist with experience across finance, ERP systems, and real-world retail challenges. Currently preparing for the SOCPA certification.
 
-Feel free to explore and connect with me on [LinkedIn](https://www.linkedin.com/in/1brahimahmad/).
+Feel free to explore and connect with me on [LinkedIn](https://www.linkedin.com/in/1brahmad/).
