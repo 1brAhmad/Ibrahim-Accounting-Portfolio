@@ -4,7 +4,7 @@ This repository showcases real examples from my work in accounting, inventory co
 
 ## 💼 Companies I've worked with:
 - Maybe Crazy (Retail & Fashion)
-- Al Makhazin Al Sawda (Retail Stores)
+- Black Stores (Retail Stores)
 - Entertainment Exhibitions
 - Personal Sneaker Resale Project
 - Mohamed Hassan Accounting Office (Internship)
