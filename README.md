@@ -1,5 +1,3 @@
-# Ibrahim-Accounting-Portfolio
-Real-world accounting reports, ERP processes, and Excel-based financial tools from my work in Saudi Arabia.
 # Ibrahim Ahmad – Accounting & ERP Portfolio
 
 This repository showcases real examples from my work in accounting, inventory control, ERP systems (Odoo & Al-Manara), and retail operations.
